@@ -2,7 +2,7 @@
 
 Degenesys is a collection of 2,500 AI generated and themed NFTs, the first 500 of which are on Canto. On Canto we are also experimenting with CSR and other recurring revenues in a model we call Sustainable Ponzinomics, which incorporates both the NFTs and the novel ERC20 token we have already deployed on Canto (the Ultra Sound Dollar/USD++).
 
-Ultra Sound Dollar is deflationary token on Canto. There are no taxes, but instead experimental disincentives to selling that does not tax, nor honeypot. For more information go the website linked below.
+Ultra Sound Dollar is deflationary token on Canto. There are no taxes, but instead experimental disincentives to selling by restricting the ability to purchase after dumping most of your holders (if this amount is over 10 basis points of initial supply - 20.8181 billion). For more information go the USD++ website linked below.
 
 ## Links
 
