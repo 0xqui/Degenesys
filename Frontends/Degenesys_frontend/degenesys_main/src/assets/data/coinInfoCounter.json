@@ -1,0 +1,20 @@
+{ 
+    "info": [
+        {
+            "text": "Unique NFTs",
+            "number": "500",
+            "unit": ""
+        }, 
+        {
+            "text": "Distinct Art Styles",
+            "number": "200",
+            "unit": ""
+        }, 
+        {
+            "text": "Mint Price (EVMOS)",
+            "number": "70",
+            "unit": ""
+        }
+
+    ]
+}
